@@ -1,4 +1,4 @@
-Hi, I'm Shaniya
+### Hi, I'm Shaniya
 
 ## Aspiring Python Full Stack Developer
 
@@ -68,4 +68,3 @@ I am an aspiring **Python Full Stack Developer** with a strong interest in build
 ---
 
 > *"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
-```
