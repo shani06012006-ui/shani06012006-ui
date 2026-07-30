@@ -1,29 +1,68 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shaniya;Python+Full+Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  Hay! I'm Shaniya
+</h1>
+
+<h3 align="center">
+   Python Full Stack Developer | Building Real-World Web Applications
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shani06012006-ui&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shani06012006-ui?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Repositories-10+-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-5+-yellow?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;REST+API+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am an aspiring **Python Full Stack Developer** with a strong passion for building practical web applications and continuously improving my programming skills. I believe in learning by doing and enjoy turning ideas into functional, user-friendly applications.
+##  About Me
 
-```mermaid
-graph LR
-    A[Passionate Developer] --> B[Full Stack]
-    A --> C[Problem Solver]
-    A --> D[Lifelong Learner]
-    B --> E[Python/Django]
-    B --> F[JavaScript]
-    B --> G[PostgreSQL]
-```
+ I'm Shaniya, a passionate **Python Full Stack Developer**.
+
+ I love building web applications using Python and Django.
+
+ Currently improving my skills in:
+- Backend Development
+- REST APIs
+- Database Management
+- Frontend Technologies
+
+ My goal is to create clean, scalable, and user-friendly applications.
+
 ---
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shani06012006-ui&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shani06012006-ui&layout=compact&theme=radical" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shani06012006-ui&theme=radical" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shani06012006-ui&theme=radical&row=2&column=4&margin-w=15&margin-h=15" /> </p>
+##  My Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,postgres,git,github,vscode,postman" />
+
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shani06012006-ui&theme=tokyo-night" />
+
+</p>
+
+
+
+##  2026 Goals
+
+Build advanced Django applications  
+Master full-stack development  
+Create production-ready projects  
+Contribute to open-source  
+Keep learning every day  
+
+---
+</p>
+
+
+<h3 align="center">
+ "Code. Learn. Build. Repeat." 
+</h3>
+
