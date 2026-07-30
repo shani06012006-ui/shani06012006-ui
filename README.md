@@ -34,7 +34,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,postgres,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,tailwind,postgres,git,github,vscode,postman,react,sqlite" />
 
 </p>
 
