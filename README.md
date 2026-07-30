@@ -1,189 +1,245 @@
 <div align="center">
 
-# Hi 👋, I'm Shaniya
-
-### Python Full Stack Developer • Django Enthusiast • Lifelong Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Building+Projects+with+Django;Learning+Something+New+Every+Day;Future+Open+Source+Contributor" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🌱 Currently learning **Django, REST APIs & PostgreSQL**
-
-💻 Building practical full stack web applications
-
-📚 Passionate about writing clean and maintainable code
-
-🎯 Goal for 2026:
-Become a skilled Python Full Stack Developer and contribute to Open Source
-
-⚡ Fun fact:
-I love learning by building real-world projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Shaniya&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=35" />
 
 <br>
 
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Enthusiast;Building+Projects+One+Step+At+A+Time;Learning+%7C+Creating+%7C+Improving" />
 
 </div>
 
+
+# `whoami`
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Shaniya"
+        self.role = "Aspiring Python Full Stack Developer"
+        self.focus = [
+            "Backend Development",
+            "Web Applications",
+            "REST APIs",
+            "Database Design"
+        ]
+
+    def current_status(self):
+        return "Learning and building every day"
+
+
+developer = Developer()
+print(developer.current_status())
+```
+
 ---
 
-# 📈 GitHub Statistics
+# The Developer Behind The Code
+
+I am a Python Full Stack Developer in progress, focused on transforming ideas into practical applications.
+
+My journey started with learning programming fundamentals and gradually moved towards building complete web solutions.
+
+Currently exploring:
+
+```
+Backend Architecture
+API Development
+Database Management
+Clean Code Practices
+Full Stack Application Design
+```
+
+---
+
+# Current Mission
+
+```
+01  Build powerful Django applications
+
+02  Understand backend systems deeply
+
+03  Improve frontend development skills
+
+04  Create projects that solve real problems
+
+05  Prepare for open-source contribution
+```
+
+---
+
+# Technology Universe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,postgresql,git,github,vscode" />
 
 </div>
 
----
+<br>
 
-# 🔥 GitHub Streak
+```
+Backend
+ ├── Python
+ ├── Django
+ └── REST APIs
 
-<div align="center">
+Frontend
+ ├── HTML
+ ├── CSS
+ └── JavaScript
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+Database
+ └── PostgreSQL
 
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
+Tools
+ ├── Git
+ ├── GitHub
+ └── VS Code
+```
 
 ---
 
-# 🚀 Featured Project
+# Build Log
 
-### 🛒 Liora E-Commerce
+My development journey documented through projects.
 
-A modern e-commerce application built while learning Django and full stack development.
+```
+2026
 
-🔗 **Repository**
+│
+├── Liora E-Commerce
+│      └── Full stack e-commerce application
+│
+├── Django Projects
+│      └── Learning authentication,
+│          APIs and database systems
+│
+└── Future Builds
+       └── Open source contributions
+```
+
+---
+
+# Featured Project
+
+## Liora E-Commerce
+
+A full stack e-commerce project created while exploring web application development.
+
+Built with:
+
+```
+Python
+Django
+HTML
+CSS
+JavaScript
+Database Integration
+```
+
+Repository:
 
 https://github.com/shani06012006-ui/Liora-E-commerce-project
 
 ---
 
-# 🌱 Currently Learning
-
-- Django
-- REST APIs
-- PostgreSQL
-- Authentication
-- Deployment
-- JavaScript ES6
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build multiple Django projects
-- ✅ Learn REST API development
-- 🔄 Learn Docker
-- 🔄 Learn React
-- 🔄 Deploy projects to the cloud
-- 🔄 Contribute to Open Source
-
----
-
-# 📫 Connect With Me
+# Developer Dashboard
 
 <div align="center">
 
-<a href="mailto:shani06012006@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shani06012006-ui&show_icons=true&theme=github_dark&hide_border=true" />
 
-<a href="https://www.linkedin.com/in/shaniya-s-309386394/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shani06012006-ui&layout=compact&theme=github_dark&hide_border=true" />
 
-<a href="https://github.com/shani06012006-ui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+</div>
+
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shani06012006-ui&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-# 👀 Visitors
+# Contribution Map
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shani06012006-ui&theme=github-compact&hide_border=true" />
 
 </div>
 
 ---
 
-# 💬 Developer Quote
+# Learning Roadmap
 
-<div align="center">
+```
+Completed
 
-> **"Code is like humour. When you have to explain it, it's bad."** — Cory House
+✓ Python Fundamentals
+✓ HTML & CSS
+✓ Git & GitHub
 
-</div>
 
----
+Currently Exploring
 
-# 🐍 Contribution Snake
+→ Django
+→ REST Framework
+→ PostgreSQL
+→ Backend Architecture
 
-> *(Requires GitHub Actions to generate automatically.)*
 
-```text
-🐍 Your contribution graph animation appears here.
+Future Goals
+
+→ React
+→ Docker
+→ Cloud Deployment
+→ Open Source
 ```
 
 ---
 
+# Connect
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="mailto:shani06012006@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF">
+</a>
 
-*"Keep learning, keep building, and never stop growing."*
+<a href="https://www.linkedin.com/in/shaniya-s-309386394/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
+</a>
+
+<a href="https://github.com/shani06012006-ui">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
 
 </div>
+
+---
+
+# Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shani06012006-ui&style=flat-square&color=58A6FF">
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Building today.
+Learning tomorrow.
+Improving forever.
+```
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer"/>
