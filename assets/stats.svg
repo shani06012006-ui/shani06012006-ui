@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="140" viewBox="0 0 960 140" role="img" aria-label="stats">
+<defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a36"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
+<radialGradient id="orb"><stop offset="0" stop-color="#6366f1" stop-opacity=".9"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb2"><stop offset="0" stop-color="#38bdf8" stop-opacity=".9"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+
+</defs>
+<style>
+.sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}.mono{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace}
+@keyframes fadeup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fu{animation:fadeup .9s ease both}
+@keyframes dash{to{stroke-dashoffset:-1000}}
+.dash{stroke-dasharray:140 860;animation:dash 5s linear infinite}
+@keyframes pulse{0%,100%{opacity:.30}50%{opacity:.65}}
+.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes floaty{0%{transform:translateY(0);opacity:0}20%{opacity:.55}100%{transform:translateY(-140px);opacity:0}}
+.floaty{animation:floaty 7s linear infinite}
+@keyframes scan{from{transform:translateY(-10px)}to{transform:translateY(340px)}}
+.scan{animation:scan 6s linear infinite}
+@keyframes reveal{to{transform:translateX(var(--w))}}
+@keyframes sweep{from{transform:translateX(-200px)}to{transform:translateX(1000px)}}
+.sweep{animation:sweep 4s ease-in-out infinite}
+</style>
+
+<g class="fu" style="animation-delay:0.0s"><rect x="1" y="1" width="224" height="138" rx="18" fill="url(#card)" stroke="#1e293b" stroke-width="1.2"/><rect x="1" y="1" width="224" height="138" rx="18" fill="none" stroke="url(#acc)" stroke-width="2" pathLength="1000" class="dash"/><text x="113" y="76" text-anchor="middle" class="sans" font-size="46" font-weight="800" fill="url(#acc)">10+</text><line x1="73" y1="94" x2="153" y2="94" stroke="url(#line)" stroke-width="2"/><text x="113" y="118" text-anchor="middle" class="mono" font-size="11" letter-spacing="2" fill="#94a3b8">REST APIS ENGINEERED</text></g><g class="fu" style="animation-delay:0.2s"><rect x="246" y="1" width="224" height="138" rx="18" fill="url(#card)" stroke="#1e293b" stroke-width="1.2"/><rect x="246" y="1" width="224" height="138" rx="18" fill="none" stroke="url(#acc)" stroke-width="2" pathLength="1000" class="dash"/><text x="358" y="76" text-anchor="middle" class="sans" font-size="46" font-weight="800" fill="url(#acc)">15-20%</text><line x1="318" y1="94" x2="398" y2="94" stroke="url(#line)" stroke-width="2"/><text x="358" y="118" text-anchor="middle" class="mono" font-size="11" letter-spacing="2" fill="#94a3b8">QUERY PERFORMANCE BOOST</text></g><g class="fu" style="animation-delay:0.4s"><rect x="491" y="1" width="224" height="138" rx="18" fill="url(#card)" stroke="#1e293b" stroke-width="1.2"/><rect x="491" y="1" width="224" height="138" rx="18" fill="none" stroke="url(#acc)" stroke-width="2" pathLength="1000" class="dash"/><text x="603" y="76" text-anchor="middle" class="sans" font-size="46" font-weight="800" fill="url(#acc)">3+</text><line x1="563" y1="94" x2="643" y2="94" stroke="url(#line)" stroke-width="2"/><text x="603" y="118" text-anchor="middle" class="mono" font-size="11" letter-spacing="2" fill="#94a3b8">SCALABLE MODULES</text></g><g class="fu" style="animation-delay:0.6000000000000001s"><rect x="736" y="1" width="224" height="138" rx="18" fill="url(#card)" stroke="#1e293b" stroke-width="1.2"/><rect x="736" y="1" width="224" height="138" rx="18" fill="none" stroke="url(#acc)" stroke-width="2" pathLength="1000" class="dash"/><text x="848" y="76" text-anchor="middle" class="sans" font-size="46" font-weight="800" fill="url(#acc)">5+</text><line x1="808" y1="94" x2="888" y2="94" stroke="url(#line)" stroke-width="2"/><text x="848" y="118" text-anchor="middle" class="mono" font-size="11" letter-spacing="2" fill="#94a3b8">ADAPTIVE FEATURES</text></g>
+</svg>
