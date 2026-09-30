@@ -5,7 +5,7 @@
 
 <!-- ═══════════════ TYPING TERMINAL ═══════════════ -->
 <a href="https://github.com/shani06012006-ui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Shaniya+S;%24+stack+%E2%86%92+Python+%7C+Django+REST+%7C+React.js+%7C+SQL;%24+impact+%E2%86%92+15-20%25+faster+database+queries;%24+workflow+%E2%86%92+AI-assisted+engineering;%24+status+%E2%86%92+building+scalable+full-stack+systems" alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Shaniya+S;%24+stack+%E2%86%92+Python+%7C+Django+REST+%7C+React.js+%7C+SQL;%24+workflow+%E2%86%92+AI-assisted+engineering;%24+status+%E2%86%92+building+scalable+full-stack+systems" alt="Typing Terminal" />
 </a>
 
 <br/>
@@ -14,7 +14,6 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:reach.shaniyas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/shani06012006-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Nagercoil%2C%20TN%2C%20India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 <br/><br/>
 
@@ -145,36 +144,11 @@ I am an energetic **Full Stack Software Engineer** specializing in the **Python,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,50:38bdf8,100:2563eb&height=2&section=header" width="100%" alt="divider" />
 
-## ⟨ BY.THE.NUMBERS ⟩
-
-<div align="center">
-
-| &nbsp;10+&nbsp; | &nbsp;15–20%&nbsp; | &nbsp;3+&nbsp; | &nbsp;5+&nbsp; |
-|:---:|:---:|:---:|:---:|
-| REST APIs Engineered | Query Performance Boost | Scalable Modules | Adaptive Features |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,50:38bdf8,100:2563eb&height=2&section=header" width="100%" alt="divider" />
-
 ## ⟨ GITHUB.ANALYTICS ⟩
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shani06012006-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shani06012006-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shani06012006-ui&theme=tokyonight&hide_border=true&background=0d1117" width="97%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shani06012006-ui&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true" width="97%" alt="Contribution Activity Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shani06012006-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" width="97%" alt="GitHub Trophies" />
 
 </div>
 
@@ -200,11 +174,12 @@ I am an energetic **Full Stack Software Engineer** specializing in the **Python,
 <div align="center">
 
 ```bash
-$ echo "Open to collaboration, internships, and full-time engineering roles"
+echo "Open to collaboration, internships, and full-time engineering roles"
 ```
 
-<a href="mailto:reach.shaniyas@gmail.com"><img src="https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:reach.shaniyas@gmail.com"><img src="https://raw.githubusercontent.com/shani06012006-ui/shani06012006-ui/main/assets/c_email.svg" width="90" alt="Send a message"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com"><img src="https://raw.githubusercontent.com/shani06012006-ui/shani06012006-ui/main/assets/c_linkedin.svg" width="90" alt="Connect on LinkedIn"/></a>
 
 <br/><br/>
 
