@@ -129,9 +129,9 @@ OPTIONAL: animated contribution snake
 <div align="center">
 
 ```bash
-echo "Open to collaboration, internships, and full-time engineering roles"
+"Open to collaboration, internships, and full-time engineering roles"
 ```
-
+<br> 
 <a href="mailto:reach.shaniyas@gmail.com"><img src="https://raw.githubusercontent.com/shani06012006-ui/shani06012006-ui/main/assets/c_email.svg" width="90" alt="Send a message"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com"><img src="https://raw.githubusercontent.com/shani06012006-ui/shani06012006-ui/main/assets/c_linkedin.svg" width="90" alt="Connect on LinkedIn"/></a>
