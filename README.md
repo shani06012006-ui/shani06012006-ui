@@ -3,6 +3,7 @@
 <!-- ═══════════════ HERO HEADER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:1e1b4b,100:2563eb&height=260&section=header&text=SHANIYA%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9F%A8%20FULL%20STACK%20SOFTWARE%20ENGINEER%20%E2%9F%A9&descSize=17&descColor=38bdf8&descAlignY=60&stroke=38bdf8&strokeWidth=1" width="100%" alt="Shaniya S Header" />
 
+
 <!-- ═══════════════ TYPING TERMINAL ═══════════════ -->
 <a href="https://github.com/shani06012006-ui">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Shaniya+S;%24+stack+%E2%86%92+Python+%7C+Django+REST+%7C+React.js+%7C+SQL;%24+workflow+%E2%86%92+AI-assisted+engineering;%24+status+%E2%86%92+building+scalable+full-stack+systems" alt="Typing Terminal" />
