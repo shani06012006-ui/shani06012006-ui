@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="header">
+<defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a36"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
+<radialGradient id="orb"><stop offset="0" stop-color="#6366f1" stop-opacity=".9"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb2"><stop offset="0" stop-color="#38bdf8" stop-opacity=".9"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+
+</defs>
+<style>
+.sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}.mono{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace}
+@keyframes fadeup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fu{animation:fadeup .9s ease both}
+@keyframes dash{to{stroke-dashoffset:-1000}}
+.dash{stroke-dasharray:140 860;animation:dash 5s linear infinite}
+@keyframes pulse{0%,100%{opacity:.30}50%{opacity:.65}}
+.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes floaty{0%{transform:translateY(0);opacity:0}20%{opacity:.55}100%{transform:translateY(-140px);opacity:0}}
+.floaty{animation:floaty 7s linear infinite}
+@keyframes scan{from{transform:translateY(-10px)}to{transform:translateY(340px)}}
+.scan{animation:scan 6s linear infinite}
+@keyframes reveal{to{transform:translateX(var(--w))}}
+@keyframes sweep{from{transform:translateX(-200px)}to{transform:translateX(1000px)}}
+.sweep{animation:sweep 4s ease-in-out infinite}
+</style>
+
+
+<defs>
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset=".55" stop-color="#14123a"/><stop offset="1" stop-color="#0b3a8a"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1000" height="340" fill="url(#hbg)"/>
+<rect width="1000" height="340" fill="url(#grid)"/>
+<circle cx="140" cy="60" r="220" fill="url(#orb)" class="pulse"/>
+<circle cx="880" cy="300" r="240" fill="url(#orb2)" class="pulse" style="animation-delay:2s"/>
+<text x="60" y="300" class="mono floaty" style="animation-delay:0s" font-size="20" fill="#38bdf8" opacity=".3">{</text><text x="150" y="320" class="mono floaty" style="animation-delay:2s" font-size="20" fill="#38bdf8" opacity=".3">}</text><text x="250" y="310" class="mono floaty" style="animation-delay:4s" font-size="20" fill="#38bdf8" opacity=".3">&lt;</text><text x="340" y="325" class="mono floaty" style="animation-delay:1s" font-size="20" fill="#38bdf8" opacity=".3">/&gt;</text><text x="450" y="300" class="mono floaty" style="animation-delay:3s" font-size="20" fill="#38bdf8" opacity=".3">()</text><text x="560" y="320" class="mono floaty" style="animation-delay:5s" font-size="20" fill="#38bdf8" opacity=".3">;</text><text x="650" y="305" class="mono floaty" style="animation-delay:2.5s" font-size="20" fill="#38bdf8" opacity=".3">=&gt;</text><text x="740" y="325" class="mono floaty" style="animation-delay:0.5s" font-size="20" fill="#38bdf8" opacity=".3">[]</text><text x="830" y="300" class="mono floaty" style="animation-delay:4.5s" font-size="20" fill="#38bdf8" opacity=".3">#</text><text x="920" y="315" class="mono floaty" style="animation-delay:1.5s" font-size="20" fill="#38bdf8" opacity=".3">&amp;&amp;</text><text x="200" y="330" class="mono floaty" style="animation-delay:3.5s" font-size="20" fill="#38bdf8" opacity=".3">0x</text><text x="700" y="335" class="mono floaty" style="animation-delay:6s" font-size="20" fill="#38bdf8" opacity=".3">::</text>
+<rect x="0" y="0" width="1000" height="2" fill="url(#line)" class="scan"/>
+<g fill="none" stroke="#38bdf8" stroke-width="2" opacity=".7" stroke-linecap="round">
+<path d="M24 60V24H60"/><path d="M976 60V24H940"/><path d="M24 280V316H60"/><path d="M976 280V316H940"/></g>
+<text x="44" y="52" class="mono" font-size="13" fill="#7dd3fc" letter-spacing="2">&lt;/&gt; portfolio.init()</text>
+<g class="fu" style="animation-delay:.2s"><text x="500" y="160" text-anchor="middle" class="sans" font-size="86" font-weight="800" letter-spacing="12" fill="url(#txt)">SHANIYA S</text></g>
+<g class="fu" style="animation-delay:.6s"><text x="500" y="208" text-anchor="middle" class="sans" font-size="20" font-weight="600" letter-spacing="9" fill="#38bdf8">FULL STACK SOFTWARE ENGINEER</text></g>
+<g class="fu" style="animation-delay:.9s"><rect x="380" y="232" width="240" height="2" fill="url(#line)"/>
+<text x="500" y="266" text-anchor="middle" class="mono" font-size="14" letter-spacing="4" fill="#94a3b8">PYTHON  /  DJANGO  /  REACT  /  SQL</text></g>
+<text x="44" y="304" class="mono" font-size="12" fill="#64748b" letter-spacing="1">// nagercoil, tamil nadu, india</text>
+<circle cx="742" cy="300" r="4" fill="#22c55e" class="blink"/>
+<text x="956" y="304" text-anchor="end" class="mono" font-size="12" fill="#64748b" letter-spacing="1">status: open_to_opportunities</text>
+
+</svg>
