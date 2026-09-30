@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-label="quote">
+<defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a36"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
+<radialGradient id="orb"><stop offset="0" stop-color="#6366f1" stop-opacity=".9"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb2"><stop offset="0" stop-color="#38bdf8" stop-opacity=".9"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+
+</defs>
+<style>
+.sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}.mono{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace}
+@keyframes fadeup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fu{animation:fadeup .9s ease both}
+@keyframes dash{to{stroke-dashoffset:-1000}}
+.dash{stroke-dasharray:140 860;animation:dash 5s linear infinite}
+@keyframes pulse{0%,100%{opacity:.30}50%{opacity:.65}}
+.pulse{animation:pulse 4s ease-in-out infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes floaty{0%{transform:translateY(0);opacity:0}20%{opacity:.55}100%{transform:translateY(-140px);opacity:0}}
+.floaty{animation:floaty 7s linear infinite}
+@keyframes scan{from{transform:translateY(-10px)}to{transform:translateY(340px)}}
+.scan{animation:scan 6s linear infinite}
+@keyframes reveal{to{transform:translateX(var(--w))}}
+@keyframes sweep{from{transform:translateX(-200px)}to{transform:translateX(1000px)}}
+.sweep{animation:sweep 4s ease-in-out infinite}
+</style>
+
+<rect x="1" y="1" width="958" height="198" rx="18" fill="url(#card)" stroke="#1e293b" stroke-width="1.2"/><rect x="1" y="1" width="958" height="198" rx="18" fill="none" stroke="url(#acc)" stroke-width="2" pathLength="1000" class="dash"/>
+<text x="34" y="128" class="sans" font-size="120" font-weight="800" fill="url(#acc)" opacity=".9">&#8220;</text>
+<text x="120" y="78" class="sans fu" style="animation-delay:0.3s" font-size="20" font-style="italic" fill="#e2e8f0">Code is more than just instructions for a machine. It is the art of</text><text x="120" y="110" class="sans fu" style="animation-delay:0.6s" font-size="20" font-style="italic" fill="#e2e8f0">architecting seamless digital experiences, eliminating system bottlenecks,</text><text x="120" y="142" class="sans fu" style="animation-delay:0.8999999999999999s" font-size="20" font-style="italic" fill="#e2e8f0">and building technology that leaves a measurable real-world impact.</text>
+<line x1="120" y1="168" x2="160" y2="168" stroke="url(#acc)" stroke-width="3" stroke-linecap="round"/>
+<text x="172" y="173" class="mono" font-size="13" letter-spacing="3" fill="#38bdf8">SHANIYA S</text>
+</svg>
